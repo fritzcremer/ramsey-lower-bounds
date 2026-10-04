@@ -95,3 +95,8 @@ If you use or refer to these results, please cite:
 
 GitHub's "Cite this repository" button gives the same information from
 [`CITATION.cff`](CITATION.cff).
+
+## License
+
+The contents of this repository are licensed under
+[CC BY 4.0](LICENSE).

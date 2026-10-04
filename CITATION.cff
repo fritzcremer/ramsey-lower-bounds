@@ -6,6 +6,7 @@ abstract: "Explicit graphs proving new lower bounds for classical Ramsey numbers
 authors:
   - family-names: Cremer
     given-names: Fritz
+license: CC-BY-4.0
 repository-code: "https://github.com/fritzcremer/ramsey-lower-bounds"
 url: "https://github.com/fritzcremer/ramsey-lower-bounds"
 keywords:
