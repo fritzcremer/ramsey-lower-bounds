@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use or refer to these results, please cite them as below."
 type: dataset
 title: "Ramsey lower bounds"
-abstract: "Explicit graphs proving new lower bounds for classical Ramsey numbers, starting with R(8,10) >= 344."
+abstract: "Explicit witness graphs proving R(6,8) >= 135 and R(8,10) >= 345, with the earlier witnesses for R(8,10) >= 344 and independent compiled verification."
 authors:
   - family-names: Cremer
     given-names: Fritz
