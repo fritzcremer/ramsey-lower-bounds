@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use or refer to these results, please cite them as below."
+message: "If you use these graphs or refer to these results, please cite the accompanying paper."
 type: dataset
 title: "Ramsey lower bounds"
 abstract: "Explicit witness graphs proving R(6,8) >= 135 and R(8,10) >= 345, with the earlier witnesses for R(8,10) >= 344 and independent compiled verification."
@@ -14,3 +14,12 @@ keywords:
   - lower bounds
   - graph theory
   - combinatorics
+preferred-citation:
+  type: article
+  title: "Lower bounds for Ramsey numbers: R(6,8) ≥ 135 and R(8,10) ≥ 345"
+  authors:
+    - family-names: Cremer
+      given-names: Fritz
+  journal: "arXiv preprint arXiv:2610.12122"
+  year: 2026
+  url: "https://arxiv.org/abs/2610.12122"

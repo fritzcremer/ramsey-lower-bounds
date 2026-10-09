@@ -3,6 +3,8 @@
 **Current results: R(6,8) ≥ 135 and R(8,10) ≥ 345.** Explicit witness graphs
 are included below.
 
+Paper: [*Lower bounds for Ramsey numbers: R(6,8) ≥ 135 and R(8,10) ≥ 345*](https://arxiv.org/abs/2610.12122).
+
 I started Codex, OpenAI's coding agent (GPT-6.1 Sol, reasoning effort "Extra
 High"), in an empty project and asked it to improve any of the open lower bounds
 for the classical Ramsey numbers R(r,s) with r, s ≤ 10. To my surprise, less
@@ -107,22 +109,24 @@ stepping stone toward the R(6,8) improvement.
 
 ## How to cite
 
-If you use or refer to these results, please cite:
+If you use these graphs or refer to these results, please cite the paper:
 
-> F. Cremer, *Ramsey lower bounds*, GitHub repository (2026),
-> https://github.com/fritzcremer/ramsey-lower-bounds
+> F. Cremer, *Lower bounds for Ramsey numbers: R(6,8) ≥ 135 and R(8,10) ≥ 345*,
+> arXiv:2610.12122 (2026), https://arxiv.org/abs/2610.12122
 
 ```bibtex
 @misc{cremer2026ramsey,
-  author       = {Cremer, Fritz},
-  title        = {Ramsey lower bounds},
-  year         = {2026},
-  howpublished = {\url{https://github.com/fritzcremer/ramsey-lower-bounds}},
-  note         = {Witness graphs for $R(6,8) \ge 135$ and $R(8,10) \ge 345$}
+  author        = {Cremer, Fritz},
+  title         = {Lower bounds for {Ramsey} numbers: {$\mathrm{R}(6,8)\ge 135$} and {$\mathrm{R}(8,10)\ge 345$}},
+  year          = {2026},
+  eprint        = {2610.12122},
+  archivePrefix = {arXiv},
+  primaryClass  = {math.CO},
+  url           = {https://arxiv.org/abs/2610.12122}
 }
 ```
 
-GitHub's "Cite this repository" button uses the metadata in
+GitHub's "Cite this repository" button also recommends the paper, using
 [`CITATION.cff`](CITATION.cff).
 
 ## License
